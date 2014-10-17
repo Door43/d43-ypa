@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ypa:home|Door43 (ypa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ypa|d43-ypa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ypa/archive/master.zip|d43-ypa.zip]]
+
+**Recent Changes**
+{{changes>ns = ypa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ypa|Ethnologue data]]
+
